@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Owen but feel free to call me Oz.
+- 👀 I’m interested in Minecraft modding and general code knowledge.
+- 🌱 I’m currently learning basic python and self teaching forge.
+- 💞️ I’m looking to complete my mods Luminous Depths and Potter's Passion.
+- 📫 How to reach me 1. Discord - Oznomaly#5258 2. Curseforge DMs - Oznomaly.
